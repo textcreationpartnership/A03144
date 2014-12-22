@@ -36,40 +36,86 @@ This keyboarded and encoded edition of the
 
 #####Front#####
 
-1. The Preface.
+1. TO THE MOST HIGH AND MIGHTY PRINCE CHARLES, By the Grace of GOD, King of GREAT BRITTAINE, FRANCE, and IRELAND, Defender of the Faith, &c. Sovereigne of the most Noble Order of St. GEORGE, called the Garter.
 
-1. CHAP. I.
+1. TO ALL THOSE MOST ILLVSTRIOVS KINGS, PRINCES, and PEERES; Knights of the Famous and most Noble ORDER of St. GEORGE, named the Garter.
 
-1. CHAP. II.
+1. Errata.
 
-1. CHAH. III.
+1. SYLLABVS CAPITVM.
 
-1. CHAP. IIII.
+    _ PART. I.
 
-1. CHAP. V.
+      * The Preface.
 
-1. CHAP. VI.
+      * CHAP. I.
 
-1. CHAP. I.
+      * CHAP. II.
 
-1. CHAP. II.
+      * CHAH. III.
 
-1. CHAP. III.
+      * CHAP. IIII.
 
-1. CHAP. IIII.
+      * CHAP. V.
 
-1. CHAP. V.
+      * CHAP. VI.
 
-1. CHAP. VI.
+    _ The second Part.
 
-1. CHAP. VII.
+      * CHAP. I.
 
-1. CHAP. VIII.
+      * CHAP. II.
+
+      * CHAP. III.
+
+      * CHAP. IIII.
+
+      * CHAP. V.
+
+      * CHAP. VI.
+
+      * CHAP. VII.
+
+      * CHAP. VIII.
 
 #####Body#####
 
+1. THE HISTORIE OF That most famous Saint and Soldier of CHRIST IESUS, St. GEORGE of CAPPADOCIA; Asserted from the Fictions of the middle Ages of the Church, and opposition of the present.
+
+    _ THE PREFACE. 
+
+    _ CHAP. I. 
+
+    _ CHAP. II. 
+
+    _ CHAP. III. 
+
+    _ CHAP. IIII.
+
+    _ CHAP. V. 
+
+    _ CHAP. VI. 
+
+1. THE HISTORIE OF St. GEORGE, asserted, &c. The Second Part.
+
+    _ CHAP. I. 
+
+    _ CHAP. II. 
+
+    _ CHAP. III. 
+
+    _ CHAP. IIII. 
+
+    _ CHAP. V.
+
+    _ CHAP. VI. 
+
+    _ CHAP. VII. 
+
+    _ CHAP. VIII. 
+
 #####Back#####
-The historie of that most famous saint and souldier of Christ Iesus; St. George of Cappadocia assert
+LONDON. Printed by B.A. and T. F. for Henry Seile, at the Tygers-head in St. Pauls Churchyard. 1631.
 **Types of content**
 
   * There are 533 **verse** lines!
